@@ -2211,6 +2211,8 @@ battered woman	10
 battered women	10
 sexual violence	10
 intimate partner violence	10
+honor killing	10
+honor killings	10
 </TERMS>
 </CATEGORY>
 
@@ -2229,6 +2231,7 @@ trans men	10
 trans women	10
 lgbt	10
 lgbts	10
+glbt	10
 pride parade	10
 pride parades	10
 homosexual	10
@@ -2236,8 +2239,9 @@ homosexuals	10
 homosexuality	10
 lgbqt	10
 same-sex	10
+queer	10
+eye for the straight guy -100
 </TERMS>
-<COMMENTS> "queer" only gets news coverage of "queer eye for the straight guy" right now </COMMENTS>
 </CATEGORY>
 
 <CATEGORY NAME="MOVEMENT_OTHER" TYPE="THEME">
