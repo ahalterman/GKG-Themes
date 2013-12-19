@@ -429,6 +429,22 @@ siege	10
 </TERMS>
 </CATEGORY>
 
+<CATEGORY NAME=“EUROPEAN UNION” TYPE="THEME">
+<TERMS>
+eu	10
+european union	10
+european commission	10
+european parliament	10
+european community	10
+european communities	10
+european economic community	10
+european coal and steel community	10
+european integration	10
+</TERMS>
+</CATEGORY>
+
+
+
 <CATEGORY NAME=“PRIVATIZATION” TYPE="THEME">
 <TERMS>
 privatize
