@@ -21,6 +21,7 @@ hooligans	100
 </GLOBAL>
 
 
+
 <CATEGORY NAME="KILL" TYPE="COUNTEVENT">
 <TERMS>
 asphyxiate	10
@@ -426,6 +427,20 @@ no-fly zone	10
 no-fly zones	10
 siege	10
 </TERMS>
+</CATEGORY>
+
+<CATEGORY NAME=“PRIVATIZATION” TYPE="THEME">
+<TERMS>
+privatize
+privatise
+privatized
+privatised
+privatization
+privatisation
+privatizing
+privatising
+</TERMS>
+<COMMENTS>There are some discussions that seem very hard to capture: http://www.globaltimes.cn/content/833174.shtml</COMMENTS>
 </CATEGORY>
 
 <CATEGORY NAME="RETALIATE" TYPE="THEME">
