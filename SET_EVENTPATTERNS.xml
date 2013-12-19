@@ -1490,7 +1490,16 @@ new season	-100
 
 <CATEGORY NAME=“DRONE” TYPE="THEME">
 <TERMS>
-
+drone	10
+drones	10
+uav	10
+uavs	10
+unmanned aerial	10
+flying robot	10
+military robot	10
+flying robots	10
+military robots	10
+unmanned combat air vehicle	10
 </TERMS>
 </CATEGORY>
 
