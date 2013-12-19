@@ -429,7 +429,7 @@ siege	10
 </TERMS>
 </CATEGORY>
 
-<CATEGORY NAME=“EUROPEAN UNION” TYPE="THEME">
+<CATEGORY NAME=“EUROPEAN_UNION” TYPE="THEME">
 <TERMS>
 eu	10
 european union	10
@@ -449,7 +449,7 @@ austerity	10
 </TERMS>
 </CATEGORY>
 
-<CATEGORY NAME=“FOREIGN AID” TYPE="THEME">
+<CATEGORY NAME=“FOREIGN_AID” TYPE="THEME">
 <TERMS>
 foreign aid	10
 development assistance	10
@@ -466,6 +466,32 @@ sperm	-100
 </TERMS>
 </CATEGORY>
 
+<CATEGORY NAME=“CIVIL_SOCIETY” TYPE="THEME">
+<TERMS>
+ngo	10
+ngos	10
+civil society	10
+non-governmental organization	10
+nongovernmental organization	10
+non-governmental organisation	10
+nongovernmental organisation	10
+non-governmental organizations	10
+nongovernmental organizations	10
+non-governmental organisations	10
+nongovernmental organisations	10
+community group	10
+community groups	10
+grassroots	10
+civic organization	10
+civic organisation	10
+civic association	10
+local organization	10
+local organization	10
+rights group	10
+right group	10
+honda -100
+</TERMS>
+</CATEGORY>
 
 <CATEGORY NAME=“PRIVATIZATION” TYPE="THEME">
 <TERMS>
