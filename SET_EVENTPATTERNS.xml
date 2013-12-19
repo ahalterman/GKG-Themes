@@ -1201,6 +1201,15 @@ hooliganism	10
 <TERMS>
 landmine	10
 landmines	10
+antipersonnel mine	10
+antipersonnel mines	10
+anti-personnel mine	10
+anti-personnel mines	10
+</TERMS>
+</CATEGORY>
+
+<CATEGORY NAME=“IED” TYPE="THEME">
+<TERMS>
 roadside bomb	10
 roadside bombing	10
 roadside bombings	10
@@ -1209,10 +1218,7 @@ ied	10
 improved explosive device	10
 ieds	10
 improved explosive devices	10
-antipersonnel mine	10
-antipersonnel mines	10
-anti-personnel mine	10
-anti-personnel mines	10
+intermittent explosive disorder	-100
 </TERMS>
 </CATEGORY>
 
