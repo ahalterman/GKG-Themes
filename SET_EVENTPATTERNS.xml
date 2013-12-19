@@ -449,6 +449,24 @@ austerity	10
 </TERMS>
 </CATEGORY>
 
+<CATEGORY NAME=“FOREIGN AID” TYPE="THEME">
+<TERMS>
+foreign aid	10
+development assistance	10
+international development	10
+international donor	10
+international donors	10
+donor aid	10
+democracy assistance	10
+democracy promotion	10
+foreign assistance	10
+blood	-100
+organ	-100
+sperm	-100
+</TERMS>
+</CATEGORY>
+
+
 <CATEGORY NAME=“PRIVATIZATION” TYPE="THEME">
 <TERMS>
 privatize
